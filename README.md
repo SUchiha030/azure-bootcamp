@@ -1,5 +1,3 @@
-# azure-bootcamp
-
 # Project 01 - Secure Azure Network for Contoso Retail
 
 ## Business Problem
